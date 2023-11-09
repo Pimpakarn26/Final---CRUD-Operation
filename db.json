@@ -1,0 +1,92 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Maths",
+      "author": "Jame Dos",
+      "price": 150,
+      "genre": "Textbook",
+      "image": "https://source.unsplash.com/random/200x200/?books"
+    },
+    {
+      "id": 2,
+      "name": "Science Essentials",
+      "author": "Alice Smith",
+      "price": 120,
+      "genre": "Textbook",
+      "image": "https://source.unsplash.com/random/200x200/?books"
+    },
+    {
+      "id": 3,
+      "name": "History Uncovered",
+      "author": "John Johnson",
+      "price": 180,
+      "genre": "History",
+      "image": "https://source.unsplash.com/random/200x200/?books"
+    },
+    {
+      "id": 4,
+      "name": "Mystery Mansion",
+      "author": "Sara Lee",
+      "price": 25,
+      "genre": "Mystery",
+      "image": "https://source.unsplash.com/random/200x200/?books"
+    },
+    {
+      "id": 5,
+      "name": "Fictional Tales",
+      "author": "Robert Brown",
+      "price": 90,
+      "genre": "Fiction",
+      "image": "https://source.unsplash.com/random/200x200/?books"
+    },
+    {
+      "id": 6,
+      "name": "Chemistry Basics",
+      "author": "Emily Davis",
+      "price": 130,
+      "genre": "Textbook",
+      "image": "https://source.unsplash.com/random/200x200/?books"
+    },
+    {
+      "id": 7,
+      "name": "Biography of Great Leaders",
+      "author": "Michael White",
+      "price": 75,
+      "genre": "Biography",
+      "image": "https://source.unsplash.com/random/200x200/?books"
+    },
+    {
+      "id": 8,
+      "name": "Cooking Delights",
+      "author": "Linda Brown",
+      "price": 40,
+      "genre": "Cookbook",
+      "image": "https://source.unsplash.com/random/200x200/?books"
+    },
+    {
+      "id": 9,
+      "name": "Adventure Quest",
+      "author": "Daniel Green",
+      "price": 60,
+      "genre": "Adventure",
+      "image": "https://source.unsplash.com/random/200x200/?books"
+    },
+    {
+      "id": 10,
+      "name": "Poetry Anthology",
+      "author": "Sophia Jones",
+      "price": 70,
+      "genre": "Poetry",
+      "image": "https://source.unsplash.com/random/200x200/?books"
+    },
+    {
+      "name": "babymoster",
+      "author": "Charee gray",
+      "price": 125,
+      "genre": "Children's books",
+      "image": "https://source.unsplash.com/random/200x200/?books",
+      "id": 11
+    }
+  ]
+}
